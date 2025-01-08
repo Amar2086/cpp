@@ -17,3 +17,6 @@ int main()
 return 0;
 
 }
+// i denotes the integer type
+// d denotes the double type
+// c denotes the char type
